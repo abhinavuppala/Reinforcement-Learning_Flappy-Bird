@@ -16,7 +16,10 @@ How to train your own version of the model:
 5. When the model seems satistfactory, exit the Flappy Bird window. The model autosaves every 20 epochs
 
 ![Screenshot of flappy bird game](https://github.com/abhinavuppala/Reinforcement-Learning_Flappy-Bird/blob/main/readme_assets/flappybird_screenshot.png)
+
 Screenshot of the flappy bird game. Basic graphics but has the same functionality overall.
 
+
 ![Screenshot of Graph of scores over epochs](https://github.com/abhinavuppala/Reinforcement-Learning_Flappy-Bird/blob/main/readme_assets/training_graph.png)
+
 Screenshot of graph recording training. Blue line shows points per epoch, and orange line shows total average score.
